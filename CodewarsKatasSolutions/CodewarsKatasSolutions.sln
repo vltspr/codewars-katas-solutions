@@ -1,8 +1,22 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{EB7DF0D3-B67F-4D92-B03C-C21085074C7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourthKyu", "FourthKyu\FourthKyu.csproj", "{1E33347C-F6A1-4AD1-A353-18CECE1F3081}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB7DF0D3-B67F-4D92-B03C-C21085074C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7DF0D3-B67F-4D92-B03C-C21085074C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7DF0D3-B67F-4D92-B03C-C21085074C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7DF0D3-B67F-4D92-B03C-C21085074C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E33347C-F6A1-4AD1-A353-18CECE1F3081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E33347C-F6A1-4AD1-A353-18CECE1F3081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E33347C-F6A1-4AD1-A353-18CECE1F3081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E33347C-F6A1-4AD1-A353-18CECE1F3081}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
