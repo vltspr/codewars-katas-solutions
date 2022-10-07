@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourthKyu", "FourthKyu\FourthKyu.csproj", "{1E33347C-F6A1-4AD1-A353-18CECE1F3081}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightKyu", "EightKyu\EightKyu.csproj", "{527F6B82-EE9E-49BF-BEEA-C09A6456C784}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{1E33347C-F6A1-4AD1-A353-18CECE1F3081}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E33347C-F6A1-4AD1-A353-18CECE1F3081}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E33347C-F6A1-4AD1-A353-18CECE1F3081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527F6B82-EE9E-49BF-BEEA-C09A6456C784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527F6B82-EE9E-49BF-BEEA-C09A6456C784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527F6B82-EE9E-49BF-BEEA-C09A6456C784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527F6B82-EE9E-49BF-BEEA-C09A6456C784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
